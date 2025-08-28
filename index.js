@@ -5,8 +5,8 @@ import pymongo
 from uuid import uuid4
 
 # Configuration
-TOKEN = "8168452117:AAGSNXdqgHtFMtzxFoku3nG7oNTXV0dP1aA"  # Replace with your BotFather token
-MONGO_URI = "mongodb+srv://rushit2013_db_user:9tuClhdDh4RaaLZp@cluster0.ilyrxnm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Replace with your MongoDB Atlas connection string
+TOKEN = ""  # Replace with your BotFather token
+MONGO_URI = ""  # Replace with your MongoDB Atlas connection string
 TWITTER_URL = "https://x.com/PrtPirates"  # Replace with your Twitter/X account
 PINNED_TWEET = "https://x.com/PrtPirates/status/1959572364569514489"  # Replace with pinned tweet URL
 
